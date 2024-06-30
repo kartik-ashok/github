@@ -3,7 +3,8 @@
  */
 public class firstcode {
         public static void main(String[] args) {
-            System.out.println("Hi Bengaluru");
+            System.out.println("HI zomato");
+
         }
     
 }
